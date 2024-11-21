@@ -14,12 +14,7 @@ h1{
     font-size: 3rem ;
     color:aliceblue
 }
-hr{
-    border-color:red;
-    border-width: 3px;
-    max-width: 65px;
-    align-self: center;
- }
+
 img{
     border: 2px;;
     align-self:center;
