@@ -1,4 +1,2 @@
-# aasath-khan1
-1
-Hello khan 9/11 ;)
-heyyy
+# A complete front-end application (an e-commerce website)
+#Ammu nation is a platfrom for legal Firearm dealings dealing and ammunition services 
